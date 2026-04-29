@@ -28,8 +28,7 @@ format:
       - default
       - ../../custom.scss
 bibliography: references.bib
-draft: true
-draft-mode: visible
+
 abstract: |
     Food allergy prevalence in India is among the lowest documented in the 
     Asia-Pacific: 0.14% in children and 1.2% in adults, from the largest 
@@ -854,3 +853,5 @@ in this paper are Lalitha's, documented in the plan before drafting began.
 --- -->
 
 ## References
+::: {#refs}
+:::
