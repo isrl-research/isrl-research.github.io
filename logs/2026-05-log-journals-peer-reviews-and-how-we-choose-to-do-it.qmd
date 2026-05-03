@@ -1,0 +1,72 @@
+---
+title: "Journals, peer review, and how we choose to do research"
+subtitle: "A working record of the reasoning behind iSRL's publishing and review practices"
+date: 2026-05-02
+categories: [meta-research, publishing, peer-review]
+keywords:
+  - open research
+  - peer review
+  - research infrastructure
+  - publishing practices
+  - forge and filter
+  - academic publishing
+  - open access
+author:
+  - name: Lalitha A R
+    affiliation: iSRL
+    orcid: 0009-0001-7466-3531
+    email: lalithaar.research@gmail.com
+    corresponding: true
+format:
+  html:
+    toc: true
+license: "CC BY 4.0"
+status: draft
+---
+As we collaborate with researchers and experts from traditional institutions, it made me think alot about how to acknowledge and honor their contribution with something that can be attributed to them and something that benefits them in the systems and constraints those organisations work under. iSRL I know doesn't fall under what one traditionally calls a 'research instituion' or more of doesn't fall under what one expects when something gets called that. 
+
+iSRL is an instition that does applied research and researches the questions that need to be answered to build what we are trying to build - a data infrastructure that takes and derives from the best of the past and it's learnings and uses the current tools to build something that could exist 10 years into the future. And to answer some of those questions, what kind of research that's needed isn't linear - to study where conflicts arise in real life, we need to study the court rulings and what each party stood for. To see where the existing systems are trying to shift towards, we need to study the delta between two regulations and say oh that's what they maybe trying to convey by that change. 
+
+To see what are the allergens that we can recogonise and flag, we need a clinician who would have thought of it more than most people on what food allergies mean for India. To understand the constraints and tradeoffs made at product level, we need to talk to someone with years of infield experience who have seen and experienced them firsthand. To see how to model something as a database, we need someone with data modelling experience. Basically, the type of people who contribute to make this happen aren't linear.
+
+The type of acknwoledgement to their contribution that matters to each involved person is radically differnet. A paper on a peer reviewed journal would matter more to a researcher than to a software engineer. The incentive structures are wildly different and we want to honor everyone involved. 
+
+Which brings me to how we have decided to handle journal submissions and peer reviews, for our collaborators from academia. The answer sounds straightforward - we publish reports anyway, just turn it to fit the format required by journals and submit, tada. But inreality many of our work doesn't fit linearly into a single journal and that makes sense, journals as I like to think of it as are curated reading lists.
+
+It is an editor's thesis about what matters in a field. Articles are accepted when they fit that thesis — when they speak to the questions the journal considers central, in the modes of argument the journal considers valid. This is curation, and it is a real and valuable function. A well-edited journal is a reading list. It tells you what a thoughtful editor and their reviewers believe is worth your attention, and why.
+
+If we take how we approached the allergen research, it was specific to India and the main goal is to find something that could represent Indian food allergen population - a list of allergens that IFID project will recogonise and it's reasoning derived from FSSAI list, what epidemiological data says and what to make out of the friction between them. 
+
+But to submit to a journal if it was an international one it meant compressing the Indian angle and emphasize how it means any underrepresented country can repeat the methodology to derive such a classification instead of focusing on just the law or the literature. That's a good point too yes, but that's not the main focus here. 
+
+The report as it was written came to be around 4000 words, submitting to a well known journal meant we had to expand it to fit 8k words because that's how the journal assessed the depth of review and it's a constraint that works for their vision. Submitting to an Indian one meant compressing it to less than 3000 words and losing out the very essence of what the work conveys. 
+
+If submitting to a clinical journal, we have to expand on the molecular aspects of allergies and tone down the regulatory analysis, when submitting to a law journal we need to tone down the clinical part and focus on the law so it doesn't look out of scope. But watering down the core essence to fit is not respectful to research and knowledge at it's core and neither to the readers or the editors or the readers of iSRL and the expert who contributed their efforts into making the piece what it is.
+
+And then there are author processing charges that is usually in lakhs of rupees that one has to pay for the paper to be available to anyone even if they haven't subscribed to the journal, and such a cost to make knowledge more accessible is not a notion that iSRL aligns on. Our core value is to build and curate the knowledge and make it accessible without it being filtered by external factors. We have a problem at hand we are tackling, here are the questions that were raised in the process and here are our answers to them incase you ever want come across the same question.
+
+Beyond these factors, peer review is something that defines and acts as a quality manager and I understand it's importance. Is it a single person's worldview or is it something other peers have agreed with too?
+
+But today as we call the double blind anonymous peer review, does two things that I think we name it as one - 1. Filter 2. Forge
+
+Filter asks - is it sound enough, complete enough, novel enough to publish? Filter review requires independence — the reviewer should not be influenced by personal sympathy for the author or institutional proximity to the project. Anonymity was designed to protect this independence. The output of filter review is a verdict.
+
+Forge is the one that sends back the review with suggestions for substantial revision and updates. Its question is: what is actually wrong with this work, and what would make it better? Forge review requires investment — the reviewer must care enough about the problem to do the work of finding what is genuinely broken and what would genuinely fix it. The output of forge review is a better piece of work, not a verdict on the current one.
+
+As it exists, a reviewer gives feedback on whether to accept or reject but also 'accept with substantial changes' and it is necessary for us to view this as seperate functions to decide what should be adapted and why and why not.
+
+In a food ecosystem, the R&D person inside a food company has to balance taste, nutrtion while keeping in mind of shelf lives. A regulator has to balance feasibility of implementation of the companies to the safety of consumers. The nutrtionist cares about healthier food. The customs officer at the border cares about compliance to the laws of the states they stand between. The interests compete. When a decision is taken, we need to understand what was the constraints and worldview it was taken with. 
+
+When an anonymous reviewer says the decision is good, months from now we cannot go back to understand okay the person is from X background and if we need a second opinion given the circumstances changed, we need to weigh in the competing perspectives. When it's a risk to safety, we need to take the clinician's say on it, when it's about how a tool works - we need to ask the people from the company who will use it daily to approve and anonymous reviews doesn't work with this. 
+
+Filter also doesn't happen at the final stage once it's done and has a form as a report or note, it happens when we decide what question to answer and how to answer that, when we decide we need to talk to that specific expert because they are the ones who have thought of it and experienced it enough to guide us on the decision. It's a filter of deciding who we are reaching out to. While forge happens throughout the work - and advisors of iSRL when they forge and review a particular decision, they are named and listed with the exact contributions and notes and what was changed based on their thoughts are added to the appendix. 
+
+Reviewers who do forge invest time, attention and knowledge to making it better and we want them to be attributed, and recgonised as someone who shaped the work to what it is.
+
+So all in all, 
+1. When a work truly fits an existing journal's vision and truly serves and respects it's readers, we submit to a journal. But all the reports are first pushed to zenodo with open access with DOI regardless.
+2. The works are peer reviewed and when it happens, they are named explicitly and credited as appropriate.
+3. We maintain the standards needed to be able to arrive at the same decision independently and hold the reports to that level of transparency and documentation.
+4. By first pushing to zenodo, we will make the work findable, citable and persistant, and mainly open.
+
+These are all the decisions we arrive at as of 03-05-2026. All of them can be debated on, contested and and revised when a new argument or new evidence makes a better case for changing it. That is consistent with what we are trying to be.
