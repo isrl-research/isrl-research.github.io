@@ -7,7 +7,7 @@ team-role: "Research Assistant, Track 2"
 team-track: "Core Team 2"
 image: images/sainikhil.jpg
 about:
-  template: solana
+  template: trestles
   image: images/sainikhil.jpg
   image-shape: round
   links:

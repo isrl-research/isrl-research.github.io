@@ -7,7 +7,7 @@ team-role: "Lead Researcher / PI"
 team-track: "Core Team 1"
 image: images/lalithaar.png
 about:
-  template: solana
+  template: trestles
   image: images/lalithaar.png
   image-shape: round
   links:
