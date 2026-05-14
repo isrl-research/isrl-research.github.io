@@ -43,7 +43,7 @@ filters:
   "description": "Summarises the regulatory delta between India's 2011 and 2020 FSSAI food labelling regulations, focusing on transitions toward prescriptive naming, structured allergen declarations, and risk-aware warnings that directly inform IFID data field selection.",
   "datePublished": "2026-02-21",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-r-regdelta/",
+  "url": "https://isrl.in/pub/2026-02-r-regdelta/",
   "author": [
     {
       "@type": "Person",
@@ -62,7 +62,7 @@ filters:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

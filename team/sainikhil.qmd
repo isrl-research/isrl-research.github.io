@@ -30,7 +30,7 @@ about:
   "name": "Sai Nikhil Vukka",
   "jobTitle": "Research Assistant",
   "description": "Working on EMF–IFID ingredient classification, vegan standards metadata, and biomedical signal processing at iSRL.",
-  "url": "https://isrl-research.github.io/team/sainikhil.html",
+  "url": "https://isrl.in/team/sainikhil.html",
   "email": "25f2005507@ds.study.iitm.ac.in",
   "identifier": "https://orcid.org/0009-0007-6717-7512",
   "sameAs": [
@@ -41,7 +41,7 @@ about:
   "worksFor": {
     "@type": "Organization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   },
   "affiliation": [
     {

@@ -40,7 +40,7 @@ filters:
   "description": "Proposes the EMF Tri-Axial Identity Model for assigning a determinate identity position to any food ingredient using three axes — Anthropogenic Energy (E), Matter (M), and Function (F) — grounded in Indian regulatory instruments and validated against a 35-item benchmark.",
   "datePublished": "2026-02-20",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-r-emf/",
+  "url": "https://isrl.in/pub/2026-02-r-emf/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -51,7 +51,7 @@ filters:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>
@@ -921,7 +921,7 @@ The $E$--$M$--$F$ framework is an open research project. Contributions from doma
 
 **Systems Researcher Engagement (10--15 hours per week).** Researchers with domain expertise in food science, food law, informatics, or nutritional science who wish to engage more deeply with the framework's development are invited to join the research team. This engagement involves participation in framework development, validation work, and the preparation of technical reports.
 
-All contributions, critique submissions, and expressions of interest should be directed through: <https://isrl-research.github.io/join-us.html>
+All contributions, critique submissions, and expressions of interest should be directed through: <https://isrl.in/join-us.html>
 
 All critiques submitted in the format described in [Appendix A](#sec-app-critique) will receive a written response within thirty days. Contributors whose input leads to a modification of the framework will be acknowledged in the subsequent version, with a description of the modification they proposed or supported. Contributions received but not adopted will be acknowledged with an explanation.
 

@@ -30,7 +30,7 @@ about:
   "name": "Lalitha A R",
   "jobTitle": "Lead Researcher",
   "description": "PI at iSRL. Research direction, coordination, and hands-on data profiling in Core Team 1.",
-  "url": "https://isrl-research.github.io/team/lalithaar.html",
+  "url": "https://isrl.in/team/lalithaar.html",
   "email": "lalithaar.research@gmail.com",
   "identifier": "https://orcid.org/0009-0001-7466-3531",
   "sameAs": [
@@ -41,7 +41,7 @@ about:
   "worksFor": {
     "@type": "Organization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   },
   "affiliation": {
     "@type": "Organization",

@@ -39,7 +39,7 @@ filters:
   "description": "Synthesizes landmark Indian judicial decisions in food classification law, documenting the Supreme Court's 2026 ruling that established a hierarchical technical classification framework superseding common parlance interpretation — with significant implications for food informatics and ingredient classification systems.",
   "datePublished": "2026-02-15",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-r-scfood/",
+  "url": "https://isrl.in/pub/2026-02-r-scfood/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -50,7 +50,7 @@ filters:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

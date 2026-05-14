@@ -40,7 +40,7 @@ filters:
   "description": "Argues that enacted law and judicial decisions constitute a practically available, historically grounded source of ground truth in emerging domains. Introduces regulatory delta analysis — examining how legislation and case law shift across time — to surface friction points and coordination constraints.",
   "datePublished": "2026-02-23",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-m-groundtruth/",
+  "url": "https://isrl.in/pub/2026-02-m-groundtruth/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -51,7 +51,7 @@ filters:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

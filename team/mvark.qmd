@@ -5,8 +5,11 @@ description: "Open Food Facts India contributor and independent data researcher.
 order: 8
 team-role: "Advisor"
 team-track: "Advisory Network"
+image: images/mvark.jpg
 about:
   template: trestles
+  image: images/mvark.jpg
+  image-shape: round
   links:
     - icon: globe
       text: mvark.blogspot.com
@@ -25,7 +28,7 @@ draft-mode: visible
   "name": "Radhakrishna MV",
   "jobTitle": "Advisor",
   "description": "Open Food Facts India contributor and independent data researcher. Advisory network member at iSRL.",
-  "url": "https://isrl-research.github.io/team/mvark.html",
+  "url": "https://isrl.in/team/mvark.html",
   "sameAs": [
     "https://mvark.blogspot.com",
     "https://github.com/mvark"
@@ -33,17 +36,17 @@ draft-mode: visible
   "worksFor": {
     "@type": "Organization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>
 ```
 
-Anil has been a long-standing contributor to [Open Food Facts India](https://in.openfoodfacts.org/) — the kind of work that is genuinely unglamorous and genuinely necessary, because someone has to care enough to go enter the data.
+Radhakrishna ("RK") has been a long-standing contributor to [Open Food Facts India](https://in.openfoodfacts.org/) — the kind of work that is genuinely unglamorous and genuinely necessary, because someone has to care enough to go enter the data.
 
-His work at iSRL spans research writing and manuscript review. He authored [The Taxonomy of Taste: How International Systems Regulate Ingredient Names](https://isrl-research.github.io/logs/2026-03-log-t2-how_international_system_regulate_ingredient_names.html) — a Track B survey of how Canada, the USA, the EU, and Australia-New Zealand maintain official systems for ingredient identity, and the structural problems those systems are designed to solve. 
+His work at iSRL spans research writing and manuscript review. He authored [The Taxonomy of Taste: How International Systems Regulate Ingredient Names](https://isrl.in/logs/2026-03-log-t2-how_international_system_regulate_ingredient_names.html) — a Track B survey of how Canada, the USA, the EU, and Australia-New Zealand maintain official systems for ingredient identity, and the structural problems those systems are designed to solve. 
 
-He also reviewed [Data Acquisition and Ingredient Extraction: Building a Vocabulary of What India's Packaged Food Labels Actually Say](https://isrl-research.github.io/pub/2026-04-r-variants/), specifically for accurate and respectful representation of the Open Food Facts dataset and contributor ecosystem.
+He also reviewed [Data Acquisition and Ingredient Extraction: Building a Vocabulary of What India's Packaged Food Labels Actually Say](https://isrl.in/pub/2026-04-r-variants/), specifically for accurate and respectful representation of the Open Food Facts dataset and contributor ecosystem.
 
 Both contributions connect to the same underlying question: how ingredient identity gets regulated, named, and documented at scale — and what that means for building infrastructure like IFID in a context where no shared reference layer currently exists.
 

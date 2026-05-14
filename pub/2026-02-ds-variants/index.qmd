@@ -55,7 +55,7 @@ other-links:
   "description": "A mapping of 2,500+ regional ingredient variations observed on Indian food labels, linking label variants to a canonical vocabulary. Note: this dataset has been superseded — the v1 approach was abandoned after finding it conflated noise reduction with meaningful cultural and linguistic variation.",
   "creativeWorkStatus": "Superseded",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-ds-variants/",
+  "url": "https://isrl.in/pub/2026-02-ds-variants/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -66,7 +66,7 @@ other-links:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

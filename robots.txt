@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://isrl-research.github.io/sitemap.xml
+Sitemap: https://isrl.in/sitemap.xml

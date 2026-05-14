@@ -31,7 +31,7 @@ format:
         <p style="font-family: 'Source Serif 4', serif; font-size: 0.875rem; color: #555; margin: 0;">GPay, PhonePe, Paytm, or any bank app.</p>
       </div>
     </div>
-    <a href="mailto:lalithaar.research@gmail.com?subject=UPI%20Payment%20%E2%80%94%20iSRL%20Support&body=Hi%2C%0A%0AI%27ve%20made%20a%20UPI%20payment%20to%20isrl-res%40ptyes.%0A%0ATier%3A%20%5BData%20Steward%20%2F%20Research%20Sustainer%20%2F%20Founding%20Sustainer%5D%0AAmount%3A%20%E2%82%B9%0A%0APlease%20find%20my%20payment%20screenshot%20attached.%0A%0AAnything%20else%20I%27d%20like%20to%20say%3A%0A" style="display: inline-block; background-color: #1a1a1a; color: #f7f6f2; font-family: 'Source Sans 3', sans-serif; font-size: 0.875rem; font-weight: 500; padding: 0.5rem 1.25rem; border-radius: 4px; text-decoration: none; letter-spacing: 0.01em; align-self: flex-start;">Send payment screenshot →</a>
+    <a href="mailto:lalithaar@isrl.in?subject=UPI%20Payment%20%E2%80%94%20iSRL%20Support&body=Hi%2C%0A%0AI%27ve%20made%20a%20UPI%20payment%20to%20isrl-res%40ptyes.%0A%0ATier%3A%20%5BData%20Steward%20%2F%20Research%20Sustainer%20%2F%20Founding%20Sustainer%5D%0AAmount%3A%20%E2%82%B9%0A%0APlease%20find%20my%20payment%20screenshot%20attached.%0A%0AAnything%20else%20I%27d%20like%20to%20say%3A%0A" style="display: inline-block; background-color: #1a1a1a; color: #f7f6f2; font-family: 'Source Sans 3', sans-serif; font-size: 0.875rem; font-weight: 500; padding: 0.5rem 1.25rem; border-radius: 4px; text-decoration: none; letter-spacing: 0.01em; align-self: flex-start;">Email us →</a>
   </div>
 
 </div>
@@ -47,6 +47,12 @@ new QRCode(document.getElementById("upi-qr"), {
 });
 </script>
 ```
+
+## Supported by
+
+We're grateful for support from [FOSS-United](https://fossunited.org/) and [Thejesh GN](https://thejeshgn.com/projects/nagarathna-memorial-grant/) through the [Nagarathna Memorial Grant](https://thejeshgn.com/projects/nagarathna-memorial-grant/), which makes this open research possible.
+
+---
 
 A computer once declared Maggi healthier than rice. We are an open research lab
 helping computers understand why the grandma will slap it if it says so — and

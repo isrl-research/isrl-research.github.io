@@ -1,6 +1,6 @@
-# isrl-research.github.io
+# iSRL Website
 
-Source for the [iSRL](https://isrl-research.github.io) website — 
+Source for the [iSRL](https://isrl.in) website — 
 the Interdisciplinary Systems Research Lab's public-facing research commons.
 
 Built with [Quarto](https://quarto.org). Deployed via GitHub Actions to GitHub Pages.

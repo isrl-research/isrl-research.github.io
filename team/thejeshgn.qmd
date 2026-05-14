@@ -28,7 +28,7 @@ draft-mode: visible
   "name": "Thejesh GN",
   "jobTitle": "Advisor — Open Data Standards",
   "description": "Independent technologist and co-founder of DataMeet. Advisory network member at iSRL.",
-  "url": "https://isrl-research.github.io/team/thejeshgn.html",
+  "url": "https://isrl.in/team/thejeshgn.html",
   "sameAs": [
     "https://thejeshgn.com",
     "https://github.com/thejeshgn"
@@ -36,7 +36,7 @@ draft-mode: visible
   "worksFor": {
     "@type": "Organization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

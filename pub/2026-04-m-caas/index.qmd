@@ -40,7 +40,7 @@ draft-mode: visible
   "description": "A framework for constrained AI-assisted sampling in fragmented textual spaces where no ground truth exists and standard survey or ETL assumptions fail — developed for collecting Indian packaged food label data.",
   "creativeWorkStatus": "Draft",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-04-m-caas/",
+  "url": "https://isrl.in/pub/2026-04-m-caas/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -51,7 +51,7 @@ draft-mode: visible
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>

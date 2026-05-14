@@ -185,12 +185,12 @@ function Meta(meta)
   ld.publisher = {
     ["@type"] = "Organization",
     name = "iSRL",
-    url = "https://isrl-research.github.io"
+    url = "https://isrl.in"
   }
   ld.isPartOf = {
     ["@type"] = "WebSite",
     name = "iSRL",
-    url = "https://isrl-research.github.io"
+    url = "https://isrl.in"
   }
 
   local json_str = json_encode(ld)

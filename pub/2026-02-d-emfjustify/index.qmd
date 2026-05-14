@@ -40,7 +40,7 @@ filters:
   "description": "Justification companion to the EMF Tri-Axial Identity Model, providing regulatory, chemical, and trade defensibility notes for each axis score assignment across the model's benchmark ingredient set.",
   "datePublished": "2026-02-20",
   "license": "https://creativecommons.org/licenses/by/4.0/",
-  "url": "https://isrl-research.github.io/pub/2026-02-d-emfjustify/",
+  "url": "https://isrl.in/pub/2026-02-d-emfjustify/",
   "author": {
     "@type": "Person",
     "name": "Lalitha A R",
@@ -51,7 +51,7 @@ filters:
   "publisher": {
     "@type": "ResearchOrganization",
     "name": "iSRL",
-    "url": "https://isrl-research.github.io"
+    "url": "https://isrl.in"
   }
 }
 </script>
