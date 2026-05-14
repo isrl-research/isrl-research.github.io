@@ -17,8 +17,6 @@ about:
     - icon: github
       text: mvark
       href: https://github.com/mvark
-draft: true
-draft-mode: visible
 ---
 ```{=html}
 <script type="application/ld+json">
