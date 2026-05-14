@@ -7,7 +7,7 @@ team-role: "Advisor — Open Data Standards"
 team-track: "Advisory Network"
 image: images/thejeshgn.jpg
 about:
-  template: trestles
+  template: solana
   image: images/thejeshgn.jpg
   image-shape: round
   links:

@@ -7,7 +7,7 @@ team-role: "Advisor"
 team-track: "Advisory Network"
 image: images/mvark.jpg
 about:
-  template: trestles
+  template: solana
   image: images/mvark.jpg
   image-shape: round
   links:
