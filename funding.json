@@ -1,0 +1,73 @@
+{
+    "$schema": "https://fundingjson.org/schema/v1.1.0.json",
+    "version": "v1.0.0",
+    "entity": {
+        "type": "individual",
+        "role": "owner",
+        "name": "Lalitha A R",
+        "email": "lalithaar@isrl.in",
+        "description": "Lead Researcher and Principal Investigator at iSRL (Interdisciplinary Systems Research Lab), an independent open research commons. Currently building IFID (Indian Food Informatics Data) — a deterministic ingredient identity substrate for India's packaged food ecosystem, grounded in FSSAI regulations, ITC-HS nomenclature, and Indian judicial reasoning. iSRL operates as open digital public infrastructure, explicitly modelled on coordination-without-convergence precedents like UPI and MusicBrainz. Recipient of the Nagarathna Memorial Grant 2026. Enrolled in IIT Madras BS Data Science & Applications program.",
+        "webpageUrl": {
+            "url": "https://isrl.in"
+        }
+    },
+    "projects": [
+        {
+            "guid": "ifid",
+            "name": "IFID — Indian Food Informatics Data",
+            "description": "IFID is building a deterministic ingredient identity substrate for India's packaged food ecosystem. It uses the E-M-F Tri-Axial Identity Model (Entity, Material, Function) to resolve ingredient identity across regulatory, trade, and common-parlance naming systems. The dataset covers ~1,900–2,100 ingredient rows with schema grounded in FSSAI regulations, ITC-HS nomenclature, and Supreme Court classification precedents. IFID is designed as open data infrastructure — neutral, auditable, and reusable by researchers, regulators, and public health practitioners. Current work includes allergen identity mapping, additive classification, and a TypeDB-backed curation pipeline. Published outputs available at https://zenodo.org/communities/isrl/",
+            "webpageUrl": {
+                "url": "https://isrl.in"
+            },
+            "repositoryUrl": {
+                "url": "https://github.com/isrl-research"
+            },
+            "licenses": [
+                "spdx:CC-BY-4.0",
+                "spdx:MIT"
+            ],
+            "tags": [
+                "open-data",
+                "food-safety",
+                "public-health",
+                "india",
+                "data-infrastructure",
+                "fssai",
+                "research",
+                "allergens"
+            ]
+        }
+    ],
+    "funding": {
+        "channels": [
+            {
+                "guid": "upi",
+                "type": "payment-provider",
+                "address": "isrl-res@ptyes",
+                "description": "UPI payment. Please include your name or organisation in the remarks."
+            }
+        ],
+        "plans": [
+            {
+                "guid": "foss-united-6m-2026",
+                "status": "active",
+                "name": "FOSS United Grant — July–December 2026",
+                "description": "6-month operational funding covering PI stipend (₹30,000/month), Food Technology RA for ingredient schema work (₹20,000/month), recurring infrastructure (₹500/month), and one-time contingency (₹20,000). Total: ₹3,25,000. Domain and mail infrastructure already covered by Nagarathna Memorial Grant 2026.",
+                "amount": 325000,
+                "currency": "INR",
+                "frequency": "one-time",
+                "channels": [
+                    "upi"
+                ]
+            }
+        ],
+        "history": [
+            {
+                "year": 2026,
+                "income": 50000,
+                "currency": "INR",
+                "description": "FossUnited through Nagarathna Memorial Grant 2026 from Thejesh GN — covered domain/mail infrastructure (isrl.in), PI salary, and part-time RA for June."
+            }
+        ]
+    }
+}

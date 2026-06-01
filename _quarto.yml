@@ -15,6 +15,8 @@ website:
  image: "assets/og-image.png"
  favicon: "assets/isrl-logo-square.png"
  google-analytics: "G-8PD6FFEJEV"
+ resources:
+  - funding.json
  open-graph:
   locale: en_US
   site-name: iSRL
