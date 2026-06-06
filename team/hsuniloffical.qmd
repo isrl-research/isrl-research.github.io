@@ -5,7 +5,7 @@ description: "Gets research out the door — uploads, mirrors, metadata, and eve
 order: 4
 team-role: "Dissemination Ops"
 team-track: "Core Team"
-image: images/hsunilofficial.jpg
+image: images/hsunilofficial.png
 about:
   template: trestles
   image: images/hsunilofficial.png
