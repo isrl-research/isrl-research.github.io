@@ -8,7 +8,7 @@ team-track: "Core Team"
 image: images/hsunilofficial.jpg
 about:
   template: trestles
-  image: images/hsunilofficial.jpg
+  image: images/hsunilofficial.png
   image-shape: round
   links:
     - icon: envelope
