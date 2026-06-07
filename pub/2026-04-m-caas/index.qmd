@@ -1,6 +1,5 @@
 ---
 title: "Constrained AI-Assisted Sampling for Fragmented Textual Spaces: A Framework for Data Collection Where No Ground Truth Exists"
-subtitle: "DRAFT PRE REVIEW"
 author:
   - name: Lalitha A R
     affiliation: iSRL
