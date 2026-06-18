@@ -1,73 +1,357 @@
 {
-    "$schema": "https://fundingjson.org/schema/v1.1.0.json",
-    "version": "v1.0.0",
-    "entity": {
-        "type": "individual",
-        "role": "owner",
-        "name": "Lalitha A R",
-        "email": "lalithaar@isrl.in",
-        "description": "Lead Researcher and Principal Investigator at iSRL (Interdisciplinary Systems Research Lab), an independent open research commons. Currently building IFID (Indian Food Informatics Data) — a deterministic ingredient identity substrate for India's packaged food ecosystem, grounded in FSSAI regulations, ITC-HS nomenclature, and Indian judicial reasoning. iSRL operates as open digital public infrastructure, explicitly modelled on coordination-without-convergence precedents like UPI and MusicBrainz. Recipient of the Nagarathna Memorial Grant 2026. Enrolled in IIT Madras BS Data Science & Applications program.",
-        "webpageUrl": {
-            "url": "https://isrl.in"
-        }
-    },
-    "projects": [
-        {
-            "guid": "ifid",
-            "name": "IFID — Indian Food Informatics Data",
-            "description": "IFID is building a deterministic ingredient identity substrate for India's packaged food ecosystem. It uses the E-M-F Tri-Axial Identity Model (Entity, Material, Function) to resolve ingredient identity across regulatory, trade, and common-parlance naming systems. The dataset covers ~1,900–2,100 ingredient rows with schema grounded in FSSAI regulations, ITC-HS nomenclature, and Supreme Court classification precedents. IFID is designed as open data infrastructure — neutral, auditable, and reusable by researchers, regulators, and public health practitioners. Current work includes allergen identity mapping, additive classification, and a TypeDB-backed curation pipeline. Published outputs available at https://zenodo.org/communities/isrl/",
-            "webpageUrl": {
-                "url": "https://isrl.in"
-            },
-            "repositoryUrl": {
-                "url": "https://github.com/isrl-research"
-            },
-            "licenses": [
-                "spdx:CC-BY-4.0",
-                "spdx:MIT"
-            ],
-            "tags": [
-                "open-data",
-                "food-safety",
-                "public-health",
-                "india",
-                "data-infrastructure",
-                "fssai",
-                "research",
-                "allergens"
-            ]
-        }
-    ],
-    "funding": {
-        "channels": [
-            {
-                "guid": "upi",
-                "type": "payment-provider",
-                "address": "isrl-res@ptyes",
-                "description": "UPI payment. Please include your name or organisation in the remarks."
-            }
-        ],
-        "plans": [
-            {
-                "guid": "foss-united-6m-2026",
-                "status": "active",
-                "name": "FOSS United Grant — July–December 2026",
-                "description": "6-month operational funding covering PI stipend (₹30,000/month), Food Technology RA for ingredient schema work (₹20,000/month), recurring infrastructure (₹500/month), and one-time contingency (₹20,000). Total: ₹3,25,000. Domain and mail infrastructure already covered by Nagarathna Memorial Grant 2026.",
-                "amount": 325000,
-                "currency": "INR",
-                "frequency": "one-time",
-                "channels": [
-                    "upi"
-                ]
-            }
-        ],
-        "history": [
-            {
-                "year": 2026,
-                "income": 50000,
-                "currency": "INR",
-                "description": "FossUnited through Nagarathna Memorial Grant 2026 from Thejesh GN — covered domain/mail infrastructure (isrl.in), PI salary, and part-time RA for June."
-            }
-        ]
+  "version": "v1.0.0",
+  "entity": {
+    "type": "individual",
+    "role": "owner",
+    "name": "iSRL (Lalitha A R)",
+    "email": "lalithaar@isrl.in",
+    "phone": "",
+    "description": "A computer once declared Maggi healthier than rice. We are an open research lab helping computers understand why the grandma will slap it if it says so — and hopefully make it learn Indian nutrition truth. We are process open, not just outputs. Lalitha A R is the founder and Principal Investigator of iSRL, leading all research, infrastructure, and contributor work.",
+    "webpageUrl": {
+      "url": "https://isrl.in"
     }
+  },
+  "projects": [
+    {
+      "guid": "ifid-core",
+      "name": "IFID — Indian Food Informatics Data (Core Infrastructure)",
+      "description": "A deterministic ingredient identity substrate for India's packaged food ecosystem. Uses the E-M-F Tri-Axial Identity Model to resolve ingredient identity across regulatory, trade, and common-parlance naming systems. Covers ~1,900–2,100 ingredient rows grounded in FSSAI regulations, ITC-HS nomenclature, and Supreme Court classification precedents. Designed as open data infrastructure — neutral, auditable, reusable by researchers, regulators, and public health practitioners.",
+      "webpageUrl": {
+        "url": "https://isrl.in"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0",
+        "spdx:MIT"
+      ],
+      "tags": [
+        "open-data",
+        "food-safety",
+        "public-health",
+        "india",
+        "data-infrastructure",
+        "fssai",
+        "research"
+      ]
+    },
+    {
+      "guid": "emf-model",
+      "name": "Identity, Transformation and Function: The E-M-F Tri-Axial Model",
+      "description": "A principled framework for assigning a determinate identity position to any food ingredient across three axes: Anthropogenic Energy (invasiveness of transformation), Matter (departure from biological matrix), and Function (degree to which technological role governs naming over biological origin). Derives a composite Divorce Score that partitions ingredients into variants, canonical entities, and functional tools. Validated against FSSAI regulations, ITC-HS, and Indian Supreme Court and Delhi High Court rulings. Includes a 35-item benchmark.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18714527"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "food-informatics",
+        "classification",
+        "india",
+        "fssai",
+        "open-data",
+        "research"
+      ]
+    },
+    {
+      "guid": "emf-justification-companion",
+      "name": "Justification Companion to the EMF-Scoring Model",
+      "description": "Technical companion establishing the evidentiary framework for EMF scores. Synthesises chemical justification, FSSAI/Codex regulatory standards, and ITC-HS trade nomenclature to document identity shifts during food processing. Maps covalent molecular changes against statutory naming conventions, anchoring scoring assignments in global trade classification and Indian food safety law rather than subjective interpretation.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18713318"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "food-informatics",
+        "classification",
+        "fssai",
+        "itc-hs",
+        "india",
+        "research"
+      ]
+    },
+    {
+      "guid": "ifid-allergen-paper",
+      "name": "Food Allergens in India: Evidence, Regulation, and the State of Current Knowledge",
+      "description": "A systematic review of food allergy in India co-authored with Dr. PA Mahesh (JSS Medical College). Documents a 136-fold gap between IgE sensitisation (19.1% in children) and clinical allergy (0.14%) — a structural finding that runs consistently across foods, study types, and populations. Reviews clinical and epidemiological literature, molecular characterisation of India-specific allergens, and the FSSAI mandatory allergen declaration framework. Proposes an extended allergen recognition list across two evidence tiers. Currently under peer review at npj Science of Food.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.19877561"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "allergens",
+        "food-safety",
+        "public-health",
+        "india",
+        "fssai",
+        "peer-reviewed"
+      ]
+    },
+    {
+      "guid": "ifid-encyclopedia",
+      "name": "Encyclopedia of Indian Food Ingredients",
+      "description": "A foundational taxonomy and multi-format dataset (JSON, Markdown, LaTeX) covering 600+ food components — from traditional Ayurvedic botanicals to modern industrial additives. Bridges traditional culinary knowledge systems with global food standards including Open Food Facts and INS/FSSAI classifications. Provides a machine-readable framework for food informatics in India, with nomenclature normalisation, hierarchical categorisation, and interoperable data structuring for API integrations and research applications.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18650863"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "open-data",
+        "food-informatics",
+        "india",
+        "taxonomy",
+        "fssai",
+        "dataset"
+      ]
+    },
+    {
+      "guid": "ifid-variants-dataset",
+      "name": "Indian Food Ingredients & Label Variants Dataset",
+      "description": "A structured mapping of 2,500+ regional ingredient variations as observed on Indian food packaging, linking label variants to standardised canonical forms. Built from 896 directly sampled products and OpenFoodFacts rows with traceable Indian product names, processed through a constrained parsing pipeline (temperature 0, explicit failure over approximation). The resulting 2,291 unique variant strings are documentation of how ingredient identity is actually expressed across Indian commercial food labels — ground truth for calibrating ML models and LLMs.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.19454090"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "dataset",
+        "open-data",
+        "food-informatics",
+        "india",
+        "nlp",
+        "machine-learning"
+      ]
+    },
+    {
+      "guid": "ifid-data-acquisition-report",
+      "name": "Data Acquisition and Ingredient Extraction: Building a Vocabulary of What India's Packaged Food Labels Actually Say",
+      "description": "Documents the construction of the first ingredient variant corpus from Indian packaged food labels. Covers methodology, source selection, and the constrained parsing pipeline used to extract 2,291 unique ingredient variant strings from 896 sampled products and OpenFoodFacts. Frames variants not as noise but as evidence of how ingredient identity is expressed in practice — the question of which variants share an identity is addressed by the EMF model.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.19454090"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "open-data",
+        "food-informatics",
+        "india",
+        "dataset",
+        "fssai",
+        "research"
+      ]
+    },
+    {
+      "guid": "regulatory-delta-method",
+      "name": "Regulatory Texts and Case Law as Ground Truth in Emerging Domains",
+      "description": "A methodological note arguing that enacted law and judicial decisions constitute a practically available, historically grounded source of ground truth in domains where no unified academic theory has consolidated. Describes regulatory delta analysis — a method for reading how legislation and case law shift across time to surface friction points, coordination patterns, and the constraints under which each version of a rule was written. Grounded in IFID but intended to transfer to other domains with similar structural properties.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18741725"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "methodology",
+        "regulation",
+        "india",
+        "food-safety",
+        "research",
+        "open-data"
+      ]
+    },
+    {
+      "guid": "regulatory-delta-fssai",
+      "name": "Regulatory Delta of Food Labelling Laws in India: FSSAI 2011 vs 2020",
+      "description": "Summarises the regulatory delta between the Food Safety and Standards (Packaging and Labelling) Regulations 2011 and the Food Safety and Standards (Labelling and Display) Regulations 2020. Focuses on the transition toward prescriptive naming, structured allergen declarations, and risk-aware warnings — and how these shifts directly inform field selection in digital ingredient identity layers like IFID.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18719394"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "regulation",
+        "fssai",
+        "india",
+        "food-safety",
+        "open-data",
+        "research"
+      ]
+    },
+    {
+      "guid": "supreme-court-classification",
+      "name": "Indian Supreme Court: Hierarchical Classification for Food Products",
+      "description": "Synthesises landmark judicial decisions in Indian food classification law, documenting the transition from common parlance-based interpretation to a hierarchical technical classification framework. Analyses the January 2026 Supreme Court judgment in Commissioner of Customs Import v. Ms Welkin Foods, which established a precedential hierarchy prioritising statutory interpretation over lay understanding. Covers four domains: GST/Tax, Food Safety, Customs, and Dietary Labels — with implications for food informatics, regulatory compliance, and ingredient classification systems.",
+      "webpageUrl": {
+        "url": "https://doi.org/10.5281/zenodo.18651646"
+      },
+      "repositoryUrl": {
+        "url": "https://github.com/isrl-research"
+      },
+      "licenses": [
+        "spdx:CC-BY-4.0"
+      ],
+      "tags": [
+        "india",
+        "food-safety",
+        "regulation",
+        "judicial",
+        "classification",
+        "research"
+      ]
+    }
+  ],
+  "funding": {
+    "channels": [
+      {
+        "guid": "upi",
+        "type": "payment-provider",
+        "address": "isrl-res@ptyes",
+        "description": "UPI payment. Please include your name or organisation in the remarks."
+      },
+      {
+        "guid": "bank-transfer",
+        "type": "bank",
+        "address": "lalithaar@isrl.in",
+        "description": "Bank transfer available for institutional or larger contributions. Please email lalithaar@isrl.in to request account details."
+      }
+    ],
+    "plans": [
+      {
+        "guid": "data-steward-monthly",
+        "status": "active",
+        "name": "Data Steward — Monthly",
+        "description": "Monthly research newsletter. Name on the iSRL supporters page.",
+        "amount": 500,
+        "currency": "INR",
+        "frequency": "monthly",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "research-sustainer-monthly",
+        "status": "active",
+        "name": "Research Sustainer — Monthly",
+        "description": "Everything in Data Steward, plus one sub-track prioritisation request per quarter and your name in the outputs of any track you back.",
+        "amount": 1500,
+        "currency": "INR",
+        "frequency": "monthly",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "founding-sustainer-monthly",
+        "status": "active",
+        "name": "Founding Sustainer — Monthly",
+        "description": "Everything in Research Sustainer, plus name and logo on the iSRL org README and website under monetary support, and your name in all iSRL outputs.",
+        "amount": 5000,
+        "currency": "INR",
+        "frequency": "monthly",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "data-steward-onetime",
+        "status": "active",
+        "name": "Data Steward — One-time",
+        "description": "Monthly research newsletter. Name on the iSRL supporters page.",
+        "amount": 1500,
+        "currency": "INR",
+        "frequency": "one-time",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "research-sustainer-onetime",
+        "status": "active",
+        "name": "Research Sustainer — One-time",
+        "description": "Everything in Data Steward, plus one sub-track prioritisation request and your name in the outputs of any track you back.",
+        "amount": 5000,
+        "currency": "INR",
+        "frequency": "one-time",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "founding-sustainer-onetime",
+        "status": "active",
+        "name": "Founding Sustainer — One-time",
+        "description": "Everything in Research Sustainer, plus name and logo on the iSRL org README and website under monetary support, and your name in all iSRL outputs.",
+        "amount": 15000,
+        "currency": "INR",
+        "frequency": "one-time",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      },
+      {
+        "guid": "foss-united-6m-2026",
+        "status": "active",
+        "name": "FOSS United Grant — July–December 2026",
+        "description": "6-month operational funding covering PI stipend (₹30,000/month), Food Technology RA for ingredient schema work (₹20,000/month), recurring infrastructure (₹500/month), and one-time contingency (₹20,000). Total: ₹3,25,000. Domain and mail infrastructure already covered by Nagarathna Memorial Grant 2026.",
+        "amount": 325000,
+        "currency": "INR",
+        "frequency": "one-time",
+        "channels": [
+          "upi",
+          "bank-transfer"
+        ]
+      }
+    ],
+    "history": [
+      {
+        "year": 2026,
+        "income": 50000,
+        "expenses": 0,
+        "taxes": 0,
+        "currency": "INR",
+        "description": "FossUnited through Nagarathna Memorial Grant 2026 from Thejesh GN — covered domain/mail infrastructure (isrl.in), PI salary, and part-time RA for June."
+      }
+    ]
+  }
 }
