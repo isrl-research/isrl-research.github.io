@@ -22,3 +22,13 @@ listing:
 
 ::: {#team-listing}
 :::
+
+# Contributors
+Building something interdisciplinary is almost never an one man effort. Here are more people who contributed through domain knowledge, research, compute credits or verification.
+
+- [Jan 2026] **Dr. Swati Puri** from School of Innovation, Design and Technology for her feedback and guidance on the policies regarding F&B business data and parternships.
+- [Feb 2026] **Subrat Sethi**, a student from IIT Madras for the verification of our sampling efforts that resulted in [2026-04-R-Variants](https://isrl.in/pub/2026-04-r-variants/) and for AI credits.
+- [Feb 2026] **Purnendu Shukla**, a student from IIT Madras for assistance with running compute scripts.
+- [March 2026] **Sai Nikhil Vukka**, a student from KL University for research that resulted in [FSSAI 2011 vs 2020 Food Labeling Laws - Regulatory Delta Analysis](https://doi.org/10.5281/zenodo.18719394)
+- [March 2026] **Anand S**, CEO of Gramener for his support and introduction to Radhakrishna MV, which helped with the review of [2026-04-R-Variants](https://isrl.in/pub/2026-04-r-variants/)
+- [April 2026] **Dr. Mahesh PA**, of JSS Medical College for his collaboration and guidance on [Indian Food Allergies Report](https://isrl-research.github.io/pub/2026-04-r-allergen/)
