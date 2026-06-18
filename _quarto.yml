@@ -27,24 +27,36 @@ website:
  navbar:
   pinned: true
   right:
-   - href: index.qmd
-     text: Home
-   - href: roadmap.qmd
-     text: Roadmap
-   - href: join-us.qmd
-     text: Join us
-   - href: fund.qmd
-     text: Funding
-   - href: pub/index.qmd
-     text: Publications
-   - href: https://zenodo.org/communities/isrl/records
-     text: Zenodo
-   - href: team/index.qmd
-     text: Team
-   - about.qmd
-   - icon: github
-     href: https://github.com/isrl-research
-     aria-label: GitHub
+    - href: index.qmd
+      text: Home
+    - href: join-us.qmd
+      text: Join us
+    - href: bulletin/
+      text: Bulletin 
+
+    - text: Research
+      menu:
+        - href: pub/index.qmd
+          text: Publications
+        - href: roadmap.qmd
+          text: Roadmap
+        - href: https://zenodo.org/communities/isrl/records
+          text: Zenodo
+    - text: About
+      menu:
+        - href: about.qmd
+          text: About
+        - href: team/index.qmd
+          text: Team
+        - href: governance.qmd
+          text: Governance
+        - href: fund.qmd
+          text: Funding
+
+
+    - icon: github
+      href: https://github.com/isrl-research
+      aria-label: GitHub
   llms-txt: true
 
 

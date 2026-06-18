@@ -1,0 +1,24 @@
+---
+title: "iSRL Publishes Allergen Report in Collaboration with Dr. PA Mahesh"
+date: "2026-04-29"
+categories: [Research, Report]
+description: "We are publishing our first research report on allergen labelling in India's packaged food ecosystem, co-authored with Dr. Padukudru Anand Mahesh."
+---
+
+Today we're publishing *Food Allergens in India: Evidence, Regulation, and the State of Current Knowledge* — our first research report on allergen labelling in India's packaged food ecosystem, co-authored with Dr. Padukudru Anand Mahesh of JSS Medical College, Mysuru.
+
+We're grateful to Dr. Mahesh for this collaboration. He has spent more than 25 years studying the immunological landscape of allergic disease in India — running large-scale epidemiological studies, leading India's arm of the EU-funded EuroPrevall consortium on food allergy prevalence, and publishing over 150 papers. If someone has spent a career seriously thinking about what food allergy means on Indian soil, it is him. Having that depth of clinical knowledge inform this report made it substantially more honest.
+
+[Read the report →](https://doi.org/10.5281/zenodo.19877561)
+
+---
+
+The central question was calibration: which food allergens actually matter for an Indian population, and what does the evidence say about each one?
+
+To answer that, we reviewed the clinical and epidemiological literature, examined the molecular characterisation of India-specific allergens, and worked through the FSSAI mandatory declaration framework — including where it aligns with Indian evidence and where it was inherited from international frameworks built on different populations. Understanding the shape of the current list required understanding how it was made.
+
+We close with an extended allergen recognition list for Indian food systems, with seventeen foods placed across two evidence tiers and three foods flagged where the current data cannot yet support a placement. That list is the output the whole review was building toward.
+
+---
+
+*iSRL-2026-04-R-Allergen is published under CC BY 4.0 on Zenodo. DOI: [10.5281/zenodo.19877561](https://doi.org/10.5281/zenodo.19877561)*

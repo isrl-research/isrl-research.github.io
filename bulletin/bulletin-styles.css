@@ -1,0 +1,65 @@
+/* Institutional Styling for Bulletin
+
+.quarto-title .title {
+    font-family: "Source Sans 3", sans-serif !important;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+    font-weight: 800;
+    font-size: 3rem;
+    border-bottom: 4px solid #111110;
+    display: inline-block;
+    padding-bottom: 0.5rem;
+    margin-bottom: 2rem;
+}
+
+.quarto-listing-table {
+    border-top: 2px solid #111110;
+    margin-top: 2rem;
+}
+
+.quarto-listing-table thead th {
+    font-family: "Source Sans 3", sans-serif !important;
+    text-transform: uppercase;
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    color: #c0392b; /* iSRL Red for headers */
+    /* border-bottom: 1px solid #111110;
+    padding-bottom: 1rem;
+}
+
+.quarto-listing-table tbody td {
+    padding-top: 1.2rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px solid #e0e0e0;
+    vertical-align: middle;
+}
+
+.quarto-listing-table .listing-title {
+    font-family: "Source Sans 3", sans-serif !important;
+    font-weight: 600;
+    font-size: 1.15rem;
+    color: #1a1a1a;
+}
+
+.quarto-listing-table .listing-date {
+    font-family: "DM Mono", monospace;
+    font-size: 0.9rem;
+    color: #555;
+}
+
+.quarto-listing-table .listing-categories {
+    font-family: "Source Sans 3", sans-serif;
+    font-size: 0.8rem;
+    text-transform: uppercase;
+    color: #777;
+}
+
+.bulletin-container {
+    font-size: 1.25rem;
+    border-left: 4px solid #c0392b;
+    padding-left: 1.5rem;
+    margin-bottom: 3.5rem;
+    color: #333;
+    font-style: italic;
+    font-family: "Source Serif 4", serif;
+} */

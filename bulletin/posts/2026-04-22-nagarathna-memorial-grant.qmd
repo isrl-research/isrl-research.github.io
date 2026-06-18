@@ -1,0 +1,16 @@
+---
+title: "iSRL Receives Nagarathna Memorial Grant 2026"
+date: "2026-04-22"
+categories: [Announcement, Grant]
+description: "We are grateful to receive the Nagarathna Memorial Grant for our work on the Indian Food ID (IFID)."
+---
+
+We are excited to announce that iSRL has been awarded the **Nagarathna Memorial Grant 2026** for our work on the **Indian Food ID (IFID)**.
+
+This support directly fuels our mission to build a **coordination layer** for Indian packaged food data. Currently, the lack of a shared understanding of ingredients—where "groundnut oil" and "arachis oil" are seen as unrelated by machines—creates a landscape where data cleaning is half the job and nutrition studies sit on shaky ground. 
+
+IFID is building a **deterministic ingredient substrate**—a canonical reference that makes the ecosystem legible to machines, regulators, and researchers without requiring the ecosystem to change or flattening the inherent diversity of India's food traditions.
+
+We would like to express our sincere gratitude to **Thejesh GN** for organizing this micro-grant and to the **FOSS United Foundation** for their significant support. This funding is a vital contribution to our efforts in building open, neutral, and high-quality data infrastructure for the Indian food system.
+
+Read more about the grant results [here](https://thejeshgn.com/2026/04/22/nagarathna-memorial-grant-2026-results/).

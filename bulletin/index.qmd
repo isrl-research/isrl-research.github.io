@@ -1,0 +1,20 @@
+---
+title: "Bulletin"
+page-layout: full
+title-block-banner: false
+description: "News, announcements, and updates from iSRL."
+css: bulletin-styles.css
+listing:
+  contents: posts/*.qmd
+  type: table
+  fields: [date, title]
+  sort: "date desc"
+  categories: true
+  feed: true
+  table-striped: false
+  table-hover: true
+---
+
+::: {.bulletin-container}
+Stay updated with the latest happenings at iSRL.
+:::
