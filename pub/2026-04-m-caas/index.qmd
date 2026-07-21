@@ -1,6 +1,5 @@
 ---
 title: "Constrained AI-Assisted Sampling for Fragmented Textual Spaces: A Framework for Data Collection Where No Ground Truth Exists"
-subtitle: "DRAFT PRE REVIEW"
 author:
   - name: Lalitha A R
     affiliation: iSRL
@@ -14,7 +13,6 @@ x-reviewer:
 doc-id: iSRL-26-04-M-CAAS
 description: "A framework for constrained AI-assisted sampling in fragmented textual spaces where no ground truth exists and standard survey or ETL assumptions fail — developed for collecting Indian packaged food label data."
 date: April 2026
-doi: 10.5281/zenodo.[record-id]
 license: "CC BY 4.0"
 citation:
   type: report
@@ -27,8 +25,6 @@ format:
 bibliography: references.bib
 filters:
   - ../../contributors.lua
-draft: true
-draft-mode: visible
 ---
 ```{=html}
 <script type="application/ld+json">
